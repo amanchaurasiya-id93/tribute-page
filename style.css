@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Lobster&family=Poppins:wght@700&display=swap');
+
+
+.box {
+    display: flex;
+    gap: 23px;
+}
+
+.box h1 {
+    color: black;
+    text-shadow: -1px 7px 10px white;
+}
+
+.box1 {
+    display: flex;
+    gap: 23px;
+}
+
+img {
+    height: 660px;
+    box-shadow: 1125px -48px 1408px;
+    font-family: 'Dancing Script', cursive;
+
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+    padding: 189px;
+    font-weight: 600;
+    padding-left: 189px;
+    padding-left: 186px;
+    margin: -83px;
+    margin-top: -83px;
+    margin-top: 37px;
+    padding-left: 181px;
+
+
+}
+
+.separation {
+    background-color: black;
+    height: 23px;
+}
+
+.a1 {
+    font-size: 33px;
+    font-family: 'Lobster', sans-serif;
+    text-shadow: -1px 4px 7px black;
+    margin: 22px;
+    margin-left: 22px;
+    margin-left: 30px;
+    margin-left: -200px;
+}
+
+.a3 {
+
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    gap: 621px; 
+    font-size: 23px;
+}
